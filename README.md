@@ -1,2 +1,2 @@
-# dsci-100-project_template
-Template project repository for DSCI-100
+# Heart Disease Predictor
+A Heart Disease Classification Model developed with R and the KNN Algorithm
